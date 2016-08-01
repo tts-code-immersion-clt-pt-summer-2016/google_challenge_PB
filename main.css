@@ -13,17 +13,17 @@
 .search-bar input {
 	position: absolute;
 	top: 45%;
-	left: 33%;
+	left: 31%;
 	margin: auto auto 25px auto;
 	display: block;
-	width: 500px;
-	height: 40px;
+	width: 520px;
+	height: 36px;
 }
 
 
 .search {
 	position: absolute;	  
-	left: 42%;
+	left: 41%;
 	top: 58%;
 	margin-top: 5px;
     width: 122px;
@@ -37,7 +37,7 @@
 
 .lucky {
 	position:absolute;	  
-	left: 51.5%;
+	left: 50.5%;
 	top: 58%;
 	margin-top: 5px;
     width: 129px;
